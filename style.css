@@ -1,0 +1,95 @@
+
+.half-width
+{
+    width: 40%;
+float: left;
+  
+    padding-right: 10%;
+}
+.half
+{
+    width: 30%;
+    padding-top: 10%;
+    padding-left: 20%;
+    float:left;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.top
+{
+    width: 40%;
+    float: left;
+    padding-left:15%;
+    
+}
+.top img{
+    width: 100%;
+
+}
+.raw{
+    float: left;
+    width: 30%;
+    padding-top: 15%;
+    padding-right: 15%;
+}
+
+.link-button
+{
+ text-decoration: none;
+ background-image: linear-gradient(45deg, lightSalmon,tomato);
+ padding: 10px 20px;
+ border-radius: 5px;
+ color: white;   
+ font-weight: bold; 
+}
+section
+{
+    height: 400px;
+    padding-bottom: 150px;
+}
+.text-ali
+{
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    padding: 5px 10px 10px ;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  
+  }
+  .h{
+      text-align: center;
+  }
+  .bttn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon,tomato);
+    padding: 10px 40px 10px 40px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+    color: white;   
+    font-weight: bold;
+    
+  }
+  footer p
+{
+    text-align: center;
+}
+.ist
+
+    {
+        background-image: url("images/exp-bg.png");
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+body{
+    margin: 0;
+}
